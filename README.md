@@ -9,7 +9,7 @@ Hi there! My name is Viola and...
       what I like or would be interested in pursuing.
 - 📫 How to reach me: feel free to message me on here or email me at viola.yasuda@sjsu.edu
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: besides programming, my interests include singing, swimming, animals, and poetry.****
+- ⚡ Fun fact: besides programming, my interests include singing, swimming, animals, and poetry.
 <!--
 Hi there! My name is Viola and...
 
